@@ -1,5 +1,0 @@
-Download Latest version
-
-https://www.arduino.cc/en/Main/Software
-or
-https://www.arduino.cc
